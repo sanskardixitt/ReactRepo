@@ -1,0 +1,33 @@
+{
+  "name": "reactpractise",
+  "version": "1.0.0",
+  "description": "this is react practise",
+  
+  "scripts": {
+    "test": "jest",
+    "start": "parcel basic.html",
+    "build":"parcel basic.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanskardixitt/ReactRepo.git"
+  },
+  "keywords": [
+    "react",
+    "sanskar"
+  ],
+  "author": "sanskardixit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanskardixitt/ReactRepo/issues"
+  },
+  "homepage": "https://github.com/sanskardixitt/ReactRepo#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

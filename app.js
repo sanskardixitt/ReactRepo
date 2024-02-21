@@ -1,4 +1,8 @@
-const heading = React.createElement("h1",{id : "heading"},"it is a h1 tag");
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+
+const heading = React.createElement("h1",{id : "heading"},"it is a heading tag");
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(heading);
 
